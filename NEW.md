@@ -1,1 +1,0 @@
-Chaika project
