@@ -1,1 +1,3 @@
-java first
+faxt learn
+fast reality
+fast reality
