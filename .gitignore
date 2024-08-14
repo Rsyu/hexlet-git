@@ -42,4 +42,7 @@ doc
 /coverage
 .tool-versions
 .idea/
-app/assets/builds/
+app/assets/builds
+
+# Ignore INFO.md
+/INFO.md
